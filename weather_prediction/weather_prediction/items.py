@@ -15,3 +15,5 @@ class WeatherPredictionItem(Item):
     wind = Field()
     humidity = Field()
     day = Field()
+
+
