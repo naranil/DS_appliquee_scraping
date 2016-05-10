@@ -1,0 +1,29 @@
+time,temperature,wind_direction,wind_speed,gust,rain,humidity,pressure,weather
+17:00 10/05/2016,23 °C,Sud-Sud-Ouest : 194 °,30,40,0.6 mm,58 %,1007 hPa,Risque d'orage faible
+20:00 10/05/2016,19 °C,Sud-Sud-Ouest : 192 °,15,30,--,70 %,1007 hPa,Mitigé
+23:00 10/05/2016,14 °C,Sud-Sud-Est : 159 °,10,--,--,79 %,1007 hPa,Couvert
+02:00 11/05/2016,14 °C,Sud-Sud-Est : 163 °,10,--,--,80 %,1007 hPa,Couvert
+05:00 11/05/2016,13 °C,Sud-Sud-Ouest : 211 °,5,--,2.4 mm,92 %,1006 hPa,Pluie modérée 
+08:00 11/05/2016,12 °C,Nord-Ouest : 315 °,5,--,6.2 mm,92 %,1005 hPa,Pluie forte
+11:00 11/05/2016,13 °C,Nord-Nord-Est : 21 °,5,--,1.9 mm,88 %,1004 hPa,Pluie faible
+14:00 11/05/2016,19 °C,Sud-Sud-Est : 166 °,10,--,--,69 %,1002 hPa,Couvert
+17:00 11/05/2016,19 °C,Sud : 173 °,15,--,--,73 %,1000 hPa,Couvert
+20:00 11/05/2016,15 °C,Sud : 174 °,10,--,7.6 mm,94 %,1000 hPa,Pluie forte
+23:00 11/05/2016,13 °C,Sud-Sud-Ouest : 195 °,5,--,6.1 mm,94 %,1001 hPa,Averses de pluie fortes
+02:00 12/05/2016,13 °C,Ouest : 270 °,5,--,1.6 mm,92 %,1002 hPa,Averses de pluie faibles
+05:00 12/05/2016,10 °C,Ouest-Sud-Ouest : 251 °,5,--,--,93 %,1001 hPa,Couvert
+08:00 12/05/2016,12 °C,Sud-Sud-Ouest : 198 °,5,--,0.3 mm,87 %,1002 hPa,Couvert
+11:00 12/05/2016,15 °C,Sud-Sud-Est : 159 °,10,--,--,73 %,1002 hPa,Couvert
+14:00 12/05/2016,17 °C,Sud : 180 °,5,--,--,55 %,1002 hPa,Couvert
+17:00 12/05/2016,19 °C,Sud : 180 °,0,--,--,48 %,1001 hPa,Couvert
+20:00 12/05/2016,16 °C,Nord-Est : 45 °,10,--,--,76 %,1002 hPa,Couvert
+23:00 12/05/2016,10 °C,Est-Nord-Est : 56 °,5,--,--,87 %,1003 hPa,Mitigé
+02:00 13/05/2016,9 °C,Ouest : 270 °,0,--,--,85 %,1003 hPa,Couvert
+05:00 13/05/2016,10 °C,Nord : 0 °,5,--,--,82 %,1003 hPa,Couvert
+08:00 13/05/2016,13 °C,Nord-Nord-Est : 15 °,5,--,--,78 %,1004 hPa,Couvert
+11:00 13/05/2016,16 °C,Nord-Nord-Ouest : 338 °,5,--,--,68 %,1004 hPa,Couvert
+14:00 13/05/2016,19 °C,Nord-Ouest : 309 °,10,--,0.5 mm,58 %,1004 hPa,Averses de pluie faibles
+17:00 13/05/2016,19 °C,Nord : 0 °,5,--,0.3 mm,54 %,1003 hPa,Mitigé
+20:00 13/05/2016,17 °C,Nord-Nord-Est : 14 °,10,--,--,76 %,1004 hPa,Mitigé
+23:00 13/05/2016,12 °C,Nord-Nord-Ouest : 336 °,10,--,--,88 %,1006 hPa,Couvert
+02:00 14/05/2016,10 °C,Nord-Ouest : 315 °,5,--,--,90 %,1005 hPa,Mitigé
